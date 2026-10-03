@@ -493,8 +493,8 @@ http://181.224.255.210:8001/play/a0edfhg/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://amg00793-amg00793c24-vidaa-gb-9957.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00793-bbcstudios-bbcearthspain-vidaagb/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10128
 
-#EXTINF:0 group-title="Documentales",CGTN EN ESPAÑOL HD
-#EXTGRP:Documentales
+#EXTINF:0 group-title="DOCUMENTALES",CGTN EN ESPAÑOL HD
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://170.244.209.30:8000/play/a15q/index.m3u8
 
@@ -503,18 +503,18 @@ http://170.244.209.30:8000/play/a15q/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0m0/index.m3u8
 
-#EXTINF:0 group-title="Documentales",Discovery Home & Health HD 
-#EXTGRP:Documentales
+#EXTINF:0 group-title="DOCUMENTALES",Discovery Home & Health HD 
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://190.60.39.221:8000/play/a07r/index.m3u8
 
-#EXTINF:0 group-title="Documentales",Discovery Science
-#EXTGRP:Documentales
+#EXTINF:0 group-title="DOCUMENTALES",Discovery Science
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://181.119.185.32:8000/play/a01n/index.m3u8
 
-#EXTINF:0 group-title="Documentales",Discovery Theater HD
-#EXTGRP:Documentales
+#EXTINF:0 group-title="DOCUMENTALES",Discovery Theater HD
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a074/index.m3u8
 
@@ -528,7 +528,7 @@ http://181.224.255.210:8001/play/a0mn/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.119.185.32:8000/play/a01o/index.m3u8
 
-#EXTINF:0 group-title="Documentales",Discovery World HD
+#EXTINF:0 group-title="DOCUMENTALES",Discovery World HD
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://138.59.227.20:8000/play/a076/index.m3u8
@@ -558,8 +558,8 @@ https://velive.lat:443/laura/12345678/476014
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/72046
 
-#EXTINF:0 group-title="Documentales",History HD
-#EXTGRP:Documentales
+#EXTINF:0 group-title="DOCUMENTALES",History HD
+#EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0m1/index.m3u8
 
@@ -746,8 +746,8 @@ http://45.5.118.152:8000/play/a096/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:0 group-title="Peliculas",Sony Movies HD
-#EXTGRP:Peliculas
+#EXTINF:0 group-title="PELICULAS",Sony Movies HD
+#EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/a0de/index.m3u8
 
