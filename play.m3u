@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\tvabierta.jpg" group-title="NACIONAL",---------- NACIONAL ----------
-http://0.0.0
-
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\amas.jpg" group-title="Nacional",A+
 #EXTGRP:Nacional
 #EXTVLCOPT:network-caching=1000
@@ -58,7 +55,7 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w136876056.m
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w433305134.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\11.jpg" group-title="Nacional",ONCE 11.1
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\11.jpg" group-title="Nacional",ONCE 11
 #EXTGRP:Nacional
 #EXTVLCOPT:network-caching=1000
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/chunklist.m3u8
@@ -68,7 +65,7 @@ https://vivo.canaloncelive.tv/securepkgr3/oncemexico/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://servilive.com:3263/live/channel12live.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\14.jpg" group-title="Nacional",CANAL 14.1
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\14.jpg" group-title="Nacional",CANAL 14
 #EXTGRP:Nacional
 #EXTVLCOPT:network-caching=1000
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
@@ -123,8 +120,7 @@ https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\entre.jpg" group-title="ENTRETENIMIENTO",---------- ENTRETENIMIENTO ----------
-http://0.0.0
+
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",ADULT SWIN HD
 #EXTGRP:ENTRETENIMIENTO
@@ -137,7 +133,7 @@ http://181.224.255.210:8001/play/a0q8/index.m3u8
 https://velive.lat:443/laura/12345678/187212
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",AMC SERIES HD
-#EXTGRP:Entretenimiento
+#EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0qn/index.m3u8
 
@@ -165,6 +161,11 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
 https://stream-us-east-1.getpublica.com/cl/261002db0228n8r6sc73e2k1q0/960x540_2035016_3_f.m3u8?i=433_13449
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",BUM TELEVISION HD
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
 #EXTGRP:ENTRETENIMIENTO
@@ -306,6 +307,11 @@ http://4.30.180.36:8420/wfutdt/mono.m3u8?token=test
 #EXTVLCOPT:network-caching=1000
 https://velive.lat:443/laura/12345678/187204
 
+#EXTINF:0 group-title="ENTRETENIMIENTO",UNIVERSAL TV HD
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187203
+
 #EXTINF:0 group-title="ENTRETENIMIENTO",UNIVERSO HD
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
@@ -326,8 +332,7 @@ http://181.224.255.210:8001/play/a0qt/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.137.192.250:8000/play/a03y
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\entre.jpg" group-title="NOVELAS",---------- NOVELAS ----------
-http://0.0.0
+
 
 #EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\kddrama.jpg" group-title="NOVELAS",KANAL D DRAMA HD
 #EXTGRP:NOVELAS
@@ -359,8 +364,7 @@ https://velive.lat:443/laura/12345678/202699
 #EXTVLCOPT:network-caching=1000
 https://c.tubi1.apollo.adrise.io/live/todo-novelas-mas-pasiones-ndpbaw/1280x720.m3u8?ap.route=6fvX8z95RVSZRyQwCk7WaIEysHA&now_pos=0&ap.playback_start_ts=1790380103&pub_id=f511590d1d0ba8d0089ac84a06876d95&ap.pt=2&platform=WEB&app_mode=DEFAULT_MODE&content_type=mp4&ap.sid=72c49664-662e-4741-963f-d52e6a97fd9c&app_id=tubitv&vpaid_enabled=false&playback_start_ts=1790380102&content_id=400000111&gdpr=0&tb.sid=3fcea0b7-e118-43a9-b0e7-9b3966735901&device_id=27b3ccdf-d14b-43ec-b347-c31fa8d74454&ap.ss=a9ca98740c4624ef1053d8b3c00a6d90&language=es
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\infantil.jpg" group-title="INFANTIL",---------- INFANTIL ----------
-http://0.0.0
+
 
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\bbf.jpg" group-title="Infantil",BABYFIRST ok
 #EXTGRP:Infantil
@@ -395,12 +399,12 @@ http://181.119.185.32:8000/play/a01m/index.m3u8
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\dc.jpg" group-title="Infantil",Disney Channel
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
-http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
+https://velive.lat:443/laura/12345678/1821
 
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\dj.jpg" group-title="Infantil",Disney Jr.
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
-http://190.93.224.42/DISNEY-JR/index.m3u8
+https://velive.lat:443/laura/12345678/1824
 
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\mt.jpg" group-title="Infantil",MEMORIAS TOONS
 #EXTGRP:Infantil
@@ -437,8 +441,7 @@ http://190.60.39.221:8000/play/a05u/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.121.15:8000/play/a00a/index.m3u8
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\anime.jpg" group-title="ANIME",---------- ANIME ----------
-http://0.0.0
+
 
 #EXTINF:0 group-title="ANIME",ANIME XTV
 #EXTGRP:ANIME
@@ -455,11 +458,6 @@ http://38.7.195.44:8000/play/a0ce
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 
-#EXTINF:0 group-title="ANIME",DFTV ANIMACION HD
-#EXTGRP:ANIME
-#EXTVLCOPT:network-caching=1000
-https://lbgo.bozztv.com/giatv/giatv-desiertofloridoatacamachile/desiertofloridoatacamachile/playlist.m3u8
-
 #EXTINF:0 group-title="ANIME",GIK TV
 #EXTGRP:ANIME
 #EXTVLCOPT:network-caching=1000
@@ -475,8 +473,7 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\docu.jpg" group-title="DOCUMENTALES",---------- DOCUMENTALES ----------
-http://0.0.0
+
 
 #EXTINF:0 group-title="DOCUMENTALES",Animel Planet HD
 #EXTGRP:DOCUMENTALES
@@ -547,7 +544,7 @@ https://airvuz-dronetv-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca61/index.m3u8
-
+DOCUMENTALES
 #EXTINF:0 group-title="DOCUMENTALES",HGTV HD US
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
@@ -562,7 +559,7 @@ http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/72046
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0m1/index.m3u8
-
+DOCUMENTALESDOCUMENTALES
 #EXTINF:0 group-title="DOCUMENTALES",History 2 HD
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
@@ -578,8 +575,8 @@ http://38.137.192.250:8000/play/a02o
 #EXTVLCOPT:network-caching=1000
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedcbdd6f57c543a0cb8a8&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=lovetheplanet_lovetv&content_channel_name=Love%20the%20Planet&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7978
 
-#EXTINF:0 group-title="DOCUMENTALES",NATGEO HD
-#EXTGRP:DOCUMENTALES
+#EXTINF:0 group-title="DOCUMENTALESDOCUMENTALES",NATGEO HD
+#EXTGRP:DOCUMENTALESDOCUMENTALES
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch30/index.m3u8
 
@@ -613,8 +610,7 @@ http://200.115.120.1:8000/play/ca143/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/cb7c3e167b746f8cccca3562d6a441aa8d0f65d05d37803c6ea007c620c7150882b8f2c9e84feb687ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee45e5bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c57d570a51dce9bf28ace42818ec37ea856e465445a7b24cccd7cc59109efd8cb383dca70711c723f83a09cee5e3df424293da8a5b4d50fea00f19937887636b819ea3eee5f847ea60598f45d9fbda9d654403abd9e160b44a4eca4f8bd5f77bf63aef5bbd82028d4a445294484398e757a75c9a8c944c9c21792e572dded3c196b91c91fe2f7d882ffa0b248892bcecbf1ea56282760050c8351a3d479cd739612cfdb00244e724da9e815aef8d84b246a1f9ad65fd5174cbddadf80d9576b93334f58ed338b5a5c3b9a32360b8f42fd9f2a658a2335893433fc4d3487478edc4697a2c8bf6851d7d7c4309705899c2bf0a74ffe37573361bfff382d21261ffecf3c675a1ac74bf0a1a98b16595a9c9da5f7c65207132007577eef88855ebad4e1437e03d35f543a1e481f8210c67a854f06032fc71bdfad476093493121e7be3a4f156f9ec9bf8f82da8554ba68d6ddb0372e2f506cb37e002823d6a59d58f33747240f37ed0e745382144e4df890f6f08b8c1caaf6068419502809b498e8d29a33090127a3d20efa5bfa9a1eb6e9b236aec1ac628801a1c17b7db0dfce78f0ada0ca4a1d99a9566307ddb3758c1b29b693a05621577f8b902c72439afc9d62b6f4b52c98d29fd522992de2620666e37bb4a3c0bac27f6c2af0203c1e064f1e735e776359f68a952c3772e2b828f14ea6c561e913047d6f1c9eb50950d0bc2c5c84632a29e581db9ba1cf3415c845fd61863550f1195e78a18413c2b79fdfb6c7635d0bdcf68c49b8aa87c88cf5c2347106697fca940c1b279676bedc47d2ac1b7dfd80c4b08939d926b447ceeedc19ed32a4c4ab1deec1cd8c9c59231e0b07b2918db97ebd9b054abc77de375d3b9498ebf960bb97fc3071e459ef92142cc91a7b4ec2bff414c249ebbed94b551cbcecb3513fca97cb720c4f7a10e79959021cfd/38/1920x1080_6046040/index.m3u8
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\docu.jpg" group-title="PELICULAS",---------- PELICULAS ----------
-http://0.0.0
+
 
 #EXTINF:0 group-title="PELICULAS",A LA MEXICANA HD
 #EXTGRP:PELICULAS
@@ -626,20 +622,15 @@ https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38.137.192.250:8000/play/a03l
 
-#EXTINF:0 group-title="PELICULAS",Cinemax HD
+#EXTINF:0 group-title="PELICULAS",CINECANAL HD
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://138.59.227.20:8000/play/a08r/index.m3u8
+https://velive.lat:443/laura/12345678/187188
 
-#EXTINF:0 group-title="PELICULAS",Cinemax HD 2
+#EXTINF:0 group-title="PELICULAS",CINEMAX HDPELICULAS
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
-http://181.224.255.210:8001/play/a0mk/index.m3u8
-
-#EXTINF:0 group-title="PELICULAS",Cinemax HD 2
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://181.224.255.210:8001/play/a0mk/index.m3u8
+https://velive.lat:443/laura/12345678/187159
 
 #EXTINF:0 group-title="PELICULAS",DE PELICULA HD
 #EXTGRP:PELICULAS
@@ -681,72 +672,62 @@ https://velive.lat:443/laura/12345678/187218
 #EXTVLCOPT:network-caching=1000
 https://velive.lat:443/laura/12345678/187221
 
-#EXTINF:0 group-title="PELICULAS",HBO HD
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://181.119.185.32:8000/play/a00o/index.m3u8
-
-#EXTINF:0 group-title="PELICULAS",HBO HD 2
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://38.137.192.250:8000/play/a037
-
-#EXTINF:0 group-title="PELICULAS",HBO2 HD
-#EXTGRP:PELICULAS
-#EXTVLCOPT:network-caching=1000
-http://181.119.185.32:8000/play/a01c/index.m3u8
-
-#EXTINF:0 group-title="Peliculas",HBO2 HD 2
+#EXTINF:0 group-title="Peliculas",HBO HD
 #EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
-http://170.244.209.30:8000/play/a029/index.m3u8
+https://velive.lat:443/laura/12345678/187176
 
-#EXTINF:0 group-title="PELICULAS",HBO+
-#EXTGRP:PELICULAS
+#EXTINF:0 group-title="Peliculas",HBO2 HD
+#EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
-http://181.224.255.210:8001/play/a0qz/index.m3u8
+https://velive.lat:443/laura/12345678/187164
 
-#EXTINF:0 group-title="PELICULAS",HBO Family HD
-#EXTGRP:PELICULAS
+#EXTINF:0 group-title="Peliculas",HBO+ HD
+#EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
-http://38.137.192.250:8000/play/a0em
+https://velive.lat:443/laura/12345678/187170
 
-#EXTINF:0 group-title="PELICULAS",HBO POP HD
-#EXTGRP:PELICULAS
+#EXTINF:0 group-title="Peliculas",HBO FAMILY HD
+#EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
-http://181.224.255.210:8001/play/a0on/index.m3u8
+https://velive.lat:443/laura/12345678/187173
 
-#EXTINF:0 group-title="PELICULAS",HBO Mundi HD
+#EXTINF:0 group-title="Peliculas",HBO POP HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187179
+
+#EXTINF:0 group-title="PELICULAS",HBO MUNDI HD
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0rf/index.m3u8
 
-#EXTINF:0 group-title="PELICULAS",HBO Signature HD
-#EXTGRP:PELICULAS
+#EXTINF:0 group-title="Peliculas",HBO SIGNATURE HD
+#EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
-http://181.224.255.210:8001/play/a0re/index.m3u8
+https://velive.lat:443/laura/12345678/187167
 
-#EXTINF:0 group-title="PELICULAS",HBO Xtreme HD
-#EXTGRP:PELICULAS
+#EXTINF:0 group-title="Peliculas",HBO XTREME HD
+#EXTGRP:Peliculas
 #EXTVLCOPT:network-caching=1000
-http://38.137.192.250:8000/play/a0eu
+https://velive.lat:443/laura/12345678/280427
 
-#EXTINF:0 group-title="PELICULAS",Multicinema
+#EXTINF:0 group-title="PELICULAS",MULTICINEMA
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a03r/index.m3u8
 
-#EXTINF:0 group-title="PELICULAS",Multipremier
+#EXTINF:0 group-title="PELICULAS",MULTIPREMIER
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a096/index.m3u8
 
-#EXTINF:0 group-title="PELICULAS",Sony CINE HD
+#EXTINF:0 group-title="PELICULAS",SONY CINE HD
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:0 group-title="PELICULAS",Sony Movies HD
+#EXTINF:0 group-title="PELICULAS",SONY MOVIES HD
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/a0de/index.m3u8
@@ -766,6 +747,11 @@ https://candlelightmedia-sparklightlove-2-mx.tcl.wurl.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.228.234.30:16000/play/a06c/index.m3u8
 
+#EXTINF:0 group-title="Peliculas",UNIVERSAL CINEMA  HD
+#EXTGRP:Peliculas
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187233
+
 #EXTINF:0 group-title="PELICULAS",UNIVERSAL PREMIERE HD
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
@@ -776,8 +762,7 @@ http://38.137.192.250:8000/play/a0d5
 #EXTVLCOPT:network-caching=1000
 https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\musica.jpg" group-title="MUSICA",---------- MUSICA ----------
-http://0.0.0
+
 
 #EXTINF:0 group-title="Musica",BandaMax
 #EXTGRP:Musica
@@ -1147,18 +1132,18 @@ https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\docu.jpg" group-title="DEPORTES",---------- DEPORTES ----------
 http://0.0.0
 
-#EXTINF:0 group-title="DEPORTES",A SPOR
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",A SPOR
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ACI SPORTS
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ACI SPORTS
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
-#EXTINF:0 group-title="DEPORTES",AYM SPORTS HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",AYM SPORTS HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
@@ -1167,8 +1152,8 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTVLCOPT:network-caching=1000
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
-#EXTINF:0 group-title="DEPORTES",AYM SPORTS USA HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",AYM SPORTS USA HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist/amg01602-themahqfrancefast-itvdeportes-canelatvinternational/playlist.m3u8?rights_holder_id=itv-deportes&user_id=&vip=186.32.216.161&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=02e27c44-b3ec-4523-9c12-e9b90380087a&url=https://www.canela.tv/player/channel/itv-deportes&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
 
@@ -1176,11 +1161,6 @@ https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/pl
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
-
-#EXTINF:0 group-title="DEPORTES",beIN SPORTS EXTRA
-#EXTGRP:DEPORTES
-#EXTVLCOPT:network-caching=1000
-https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887753&ads.xumo_streamId=88887753&ads.csid=vidaa_beinsports_ssai&ads.caid=beINSports&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads.client_section=beinsports_beinsports&ads.vidaa_providername=beINSports&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9603
 
 #EXTINF:0 group-title="DEPORTES",beIN SPORTS EXTRA Ñ
 #EXTGRP:DEPORTES
@@ -1191,6 +1171,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887754&ads.xumo_streamId=88887754&ads.csid=vidaa_beinsportsesp_ssai&ads.caid=BeInSportsESP&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=2642&ads.xumo_contentName=BeInSportsESP&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=2642&ads.xumo_providerName=BeInSportsESP&ads.client_section=beinsports_beinsportses&ads.vidaa_providername=BeInSportsESP&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9600
+
+#EXTINF:0 group-title="DEPORTES",beIN SPORTS EXTRA
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887753&ads.xumo_streamId=88887753&ads.csid=vidaa_beinsports_ssai&ads.caid=beINSports&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads.client_section=beinsports_beinsports&ads.vidaa_providername=beINSports&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9603
 
 #EXTINF:0 group-title="DEPORTES",CBS SPORTS HD US
 #EXTGRP:DEPORTES
@@ -1212,8 +1197,18 @@ http://45.5.118.152:8000/play/a0ah/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
-#EXTINF:0 group-title="DEPORTES",ESPN Deportes HD
+#EXTINF:0 group-title="DEPORTES",DSPORTS2 HD
 #EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187377
+
+#EXTINF:0 group-title="DEPORTES",DSPORTS FIGHT HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/187381
+
+#EXTINF:0 group-title="Deportes",ESPN Deportes HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://38.188.186.47:4000/play/Ji198/index.m3u8
 
@@ -1222,88 +1217,88 @@ http://38.188.186.47:4000/play/Ji198/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://corgol.com@45.228.234.30:16000/play/a060
 
-#EXTINF:0 group-title="DEPORTES",ESPN HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch16/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch16/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52569
 
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.224.200.5:2277/play/a02c/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 2 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 2 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://corgol.com@45.228.234.30:16000/play/a061
 
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a064/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch18/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 3 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 3 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.224.200.5:2277/play/a02g/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 4 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 4 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch90/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 5 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 5 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch19/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 6 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 6 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.224.200.5:2277/play/a02h/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN 7 HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN 7 HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://181.78.12.119:16123/play/ch20/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",ESPN Premium HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",ESPN Premium HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://38.137.192.250:8000/play/a0ez
 
-#EXTINF:0 group-title="DEPORTES",ESPN US
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Entretenimiento",ESPN US
+#EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71545
 
-#EXTINF:0 group-title="DEPORTES",ESPN 2 US
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Entretenimiento",ESPN 2 US
+#EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71546
 
-#EXTINF:0 group-title="DEPORTES",ESPN NEWS US
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Entretenimiento",ESPN NEWS US
+#EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71547
 
-#EXTINF:0 group-title="DEPORTES",ESPN U US
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Entretenimiento",ESPN U US
+#EXTGRP:Entretenimiento
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71548
 
@@ -1312,10 +1307,15 @@ http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/71548
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca042/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",EUROSPORT 4K Czechia
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",EUROSPORT 4K Czechia
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://88.212.15.19/live/esp_4k_atk/playlist.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX ONE HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/466664
 
 #EXTINF:0 group-title="DEPORTES",FOX TUBI HD
 #EXTGRP:DEPORTES
@@ -1326,6 +1326,16 @@ https://a.tubi1.apollo.adrise.io/live/fox-en-tubi-pltefr/1280x720.m3u8?gdpr=0&de
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:0 group-title="DEPORTES",FOX DEPORTES HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/317017
+
+#EXTINF:0 group-title="DEPORTES",FOX DEPORTES HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/317018
 
 #EXTINF:0 group-title="DEPORTES",FOX SPORTS HD US
 #EXTGRP:DEPORTES
@@ -1367,13 +1377,23 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 
-#EXTINF:0 group-title="DEPORTES",HORSE TV HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",HORSE TV HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 
-#EXTINF:0 group-title="DEPORTES",NBC SPORTS NOW HD
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",NBA NETWORK HD
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/367318
+
+#EXTINF:0 group-title="Deportes",MLB NETWORK HD 
+#EXTGRP:Deportes
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/322395
+
+#EXTINF:0 group-title="Deportes",NBC SPORTS NOW HD
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
@@ -1382,18 +1402,28 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 
-#EXTINF:0 group-title="DEPORTES",RED BULL TV EN ESPAÑOL BUEN AUDIO
+#EXTINF:0 group-title="DEPORTES",NFL NETWORK HD
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
-https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+https://velive.lat:443/laura/12345678/475931
+
+#EXTINF:0 group-title="DEPORTES",NFL REDZONE HD
+#EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://velive.lat:443/laura/12345678/475933
 
 #EXTINF:0 group-title="DEPORTES",RED BULL TV EN ESPAÑOL BUEN AUDIO
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 
-#EXTINF:0 group-title="DEPORTES",TUDN
+#EXTINF:0 group-title="DEPORTES",RED BULL TV EN ESPAÑOL BUEN AUDIO
 #EXTGRP:DEPORTES
+#EXTVLCOPT:network-caching=1000
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+
+#EXTINF:0 group-title="Deportes",TUDN
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a08f/index.m3u8
 
@@ -1402,13 +1432,13 @@ http://45.5.118.152:8000/play/a08f/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://200.115.120.1:8000/play/ca82266/index.m3u8
 
-#EXTINF:0 group-title="DEPORTES",TUDN US
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",TUDN US
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/73166
 
-#EXTINF:0 group-title="DEPORTES",TUDN US
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",TUDN US
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://45.190.13.8/TUDNHD/index.m3u8
 
@@ -1422,8 +1452,8 @@ http://170.244.209.30:8000/play/a0s9/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52592
 
-#EXTINF:0 group-title="DEPORTES",TyC SPORTS
-#EXTGRP:DEPORTES
+#EXTINF:0 group-title="Deportes",TyC SPORTS
+#EXTGRP:Deportes
 #EXTVLCOPT:network-caching=1000
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
