@@ -1,36 +1,31 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\amas.jpg" group-title="NACIONAL",A+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\uno.jpg" group-title="NACIONAL",1 AZTECA
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+http://38.44.109.41:8003/play/a033/index.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\uno.jpg" group-title="NACIONAL",AZTECA UNO
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\2.jpg" group-title="NACIONAL",2 LAS ESTRELLAS
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
-https://velive.lat:443/laura/12345678/21473
+http://38.137.192.250:8000/play/a067
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\2.jpg" group-title="NACIONAL",LAS ESTRELLASNACIONAL
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://170.244.209.30:8000/play/a1fe/index.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\3.jpg" group-title="NACIONAL",IMAGEN TV
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\3.jpg" group-title="NACIONAL",3 IMAGEN TV
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\4.jpg" group-title="NACIONAL",TVCUATRO
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\4.jpg" group-title="NACIONAL",4 TVCUATRO
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/tv4gto/smil:tv4gto.smil/chunklist_w795425715_b3128000_sleng.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\4.jpg" group-title="NACIONAL",CANAL 4 MTY 
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\4.jpg" group-title="NACIONAL",4 MTY 
 #EXTGRP:NACIONALNACIONAL
 #EXTVLCOPT:network-caching=1000
 https://velive.lat:443/laura/12345678/21495
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\5.jpg" group-title="NACIONAL",CANAL 5 XHGC MX
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\5.jpg" group-title="NACIONAL",5 XHGC
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 http://45.5.118.152:8000/play/a03i/index.m3u8
@@ -40,45 +35,120 @@ http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\7.jpg" group-title="NACIONAL",AZTECA 7
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\7.jpg" group-title="NACIONAL",7.1 AZTECA 
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://velive.lat:443/laura/12345678/21471
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\amas.jpg" group-title="NACIONAL",7.2 A+
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\8.jpg" group-title="NACIONAL",8 NTV
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/ntv/videontv/chunklist_w979619080.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nu9ve.jpg" group-title="NACIONAL",EL NU9VE
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\8.jpg" group-title="NACIONAL",8 SIPSE 
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nu9ve.jpg" group-title="NACIONAL",9 NU9VE
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://velive.lat:443/laura/12345678/21482
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\9tv.jpg" group-title="NACIONAL",CANAL NUEVE TV
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\9tv.jpg" group-title="NACIONAL",9 MEXIQUENSE
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w136876056.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\10.jpg" group-title="NACIONAL",CANAL 10 CHIAPAS MX
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\10.jpg" group-title="NACIONAL",10 CHIAPAS
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w433305134.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\11.jpg" group-title="NACIONAL",ONCE 11
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\11.jpg" group-title="NACIONAL",11 ONCE
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\12.jpg" group-title="NACIONAL",CANAL 12 MTY 
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\12.jpg" group-title="NACIONAL",12 TV  
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://servilive.com:3263/live/channel12live.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\14.jpg" group-title="NACIONAL",CANAL 14
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\14.jpg" group-title="NACIONAL",14 TV
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\15.jpg" group-title="NACIONAL",15 TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\16.jpg" group-title="NACIONAL",16 SICOM PUEBLA
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\17.jpg" group-title="NACIONAL",17 JALISCO TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\21.jpg" group-title="NACIONAL",21 TV CAPITAL
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://video.cdmx.gob.mx/redes/stream.m3u8?
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\22.1.jpg" group-title="NACIONAL",22.1 TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w1088998660.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\22.2.jpg" group-title="NACIONAL",22.2 TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w1687065553.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\28.jpg" group-title="NACIONAL",28 TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/canal28/canal28/chunklist_w1938653948.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\33.jpg" group-title="NACIONAL",33 TV TIJUANA
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\44.jpg" group-title="NACIONAL",44 TV CD. JUAREZ 
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/chunklist_w1624313586.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\58.jpg" group-title="NACIONAL",58 RCG TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\mvs.jpg" group-title="NACIONAL",MVS TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\quiero.jpg" group-title="NACIONAL",QUIERO TV
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\tlmas.jpg" group-title="NACIONAL",TELEMAS
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\tvmigra.jpg" group-title="NACIONAL",TV MIGRANTE
 #EXTGRP:NACIONAL
@@ -90,51 +160,10 @@ https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w850318408.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1747392996_DVR.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\21.jpg" group-title="NACIONAL",CANAL 21NACIONAL
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://video.cdmx.gob.mx/redes/stream.m3u8?
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\22.1.jpg" group-title="NACIONAL",CANAL 22.1
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w1088998660.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\22.2.jpg" group-title="NACIONAL",CANAL 22.2
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w1687065553.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\28.jpg" group-title="NACIONAL",CANAL 28 MX
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://s5.mexside.net:1936/canal28/canal28/chunklist_w1938653948.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\33.jpg" group-title="NACIONAL",CANAL 33 TIJUANA MX
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\44.jpg" group-title="NACIONAL",CANAL 44 CD. JUAREZ MX
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/chunklist_w1624313586.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\quiero.jpg" group-title="NACIONAL",QUIERO TV
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
-
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\mvs.jpg" group-title="NACIONAL",MVS TV
-#EXTGRP:NACIONAL
-#EXTVLCOPT:network-caching=1000
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\unife.jpg" group-title="NACIONAL",UNIFE TV
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://unife.b-cdn.net/unife/tracks-v1a1/mono.ts.m3u8?id=54&ip=2806%3A2f0%3A46e1%3Af97a%3A7bfb%3A7685%3Ad94%3A4406&override_expiration=1500&sign=3YDfWUnGCYrapFi%2F5tsZnOQ3dDtIB9DcIyNcVvOVPyI%3D&timestamp=1791388743
-
 
 
 
@@ -325,7 +354,6 @@ http://38.137.192.250:8000/play/a03y
 
 
 
-
 #EXTINF:-1 tvg-logo="H:\Listas M3U\LOGOS\kddrama.jpg" group-title="NOVELAS",KANAL D DRAMA
 #EXTGRP:NOVELAS
 #EXTVLCOPT:network-caching=1000
@@ -355,7 +383,6 @@ http://38.137.192.250:8000/play/a0ew
 #EXTGRP:NOVELAS
 #EXTVLCOPT:network-caching=1000
 https://c.tubi1.apollo.adrise.io/live/todo-novelas-mas-pasiones-ndpbaw/1280x720.m3u8?ap.route=6fvX8z95RVSZRyQwCk7WaIEysHA&now_pos=0&ap.playback_start_ts=1790380103&pub_id=f511590d1d0ba8d0089ac84a06876d95&ap.pt=2&platform=WEB&app_mode=DEFAULT_MODE&content_type=mp4&ap.sid=72c49664-662e-4741-963f-d52e6a97fd9c&app_id=tubitv&vpaid_enabled=false&playback_start_ts=1790380102&content_id=400000111&gdpr=0&tb.sid=3fcea0b7-e118-43a9-b0e7-9b3966735901&device_id=27b3ccdf-d14b-43ec-b347-c31fa8d74454&ap.ss=a9ca98740c4624ef1053d8b3c00a6d90&language=es
-
 
 
 
@@ -428,7 +455,6 @@ http://181.78.121.15:8000/play/a00a/index.m3u8
 
 
 
-
 #EXTINF:0 group-title="ANIMACIÓN",ADULT SWIN HD
 #EXTGRP:ANIMACIÓN
 #EXTVLCOPT:network-caching=1000
@@ -463,7 +489,6 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTGRP:ANIMACIÓN
 #EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
-
 
 
 
@@ -741,6 +766,10 @@ http://38.137.192.250:8000/play/a0d5
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 https://lbgo.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+
+
+
+
 
 
 
@@ -1091,7 +1120,6 @@ http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52592
 #EXTGRP:DEPORTES
 #EXTVLCOPT:network-caching=1000
 http://38.44.109.41:8003/play/a02l/index.m3u8
-
 
 
 
