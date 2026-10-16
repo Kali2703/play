@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 group-title="NACIONAL",NBC LAREDO
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/106489
+
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\uno.jpg" group-title="NACIONAL",1 AZTECA
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
