@@ -120,7 +120,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w168706555
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/chunklist_w491422344.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\28.jpg" group-title="NACIONAL",CNAAL 28 TV NUEVO LEON.
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\28.jpg" group-title="NACIONAL",CANAL 28 TV NUEVO LEON.
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
 https://s5.mexside.net:1936/canal28/canal28/chunklist_w1938653948.m3u8
