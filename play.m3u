@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\uno.jpg" group-title="NACIONAL",CANAL AZTECA UNO MX.
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
