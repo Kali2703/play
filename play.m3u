@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\uno.jpg" group-title="NACIONAL",CANAL AZTECA UNO MX.
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
@@ -115,6 +117,11 @@ https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/chunklist_w1088998660.
 #EXTVLCOPT:network-caching=1000
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/chunklist_w1687065553.m3u8
 
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\24.jpg" group-title="NACIONAL",CANAL 24.1 SIZART ZACATECAS
+#EXTGRP:NACIONAL
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/chunklist_w491422344.m3u8
+
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\28.jpg" group-title="NACIONAL",CNAAL 28 TV NUEVO LEON.
 #EXTGRP:NACIONAL
 #EXTVLCOPT:network-caching=1000
@@ -224,6 +231,11 @@ https://velive.lat:443/laura/12345678/187191
 #EXTGRP:ENTRETENIMIENTO
 #EXTVLCOPT:network-caching=1000
 https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:0 group-title="ENTRETENIMIENTO",CANAL CLARO
+#EXTGRP:ENTRETENIMIENTO
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-68224482c5d53e1351aaf2f2.m3u8
 
 #EXTINF:0 group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 #EXTGRP:ENTRETENIMIENTO
@@ -455,20 +467,45 @@ http://200.48.65.77:8000/play/a01a
 #EXTVLCOPT:network-caching=1000
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickjr.jpg" group-title="Infantil",NICK JR. HD
-#EXTGRP:Infantil
-#EXTVLCOPT:network-caching=1000
-http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52561
-
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickelodeon.jpg" group-title="Infantil",NICKELODEON
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
 http://38.137.192.250:8000/play/a0ev
 
-#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\pptv.jpg" group-title="Infantil",PLIM PLIM TV
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickelodeon.jpg" group-title="Infantil",NICKELODEON CLÁSICO
 #EXTGRP:Infantil
 #EXTVLCOPT:network-caching=1000
-http://45.5.118.152:8000/play/a043/index.m3u8
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\pptv.jpg" group-title="Infantil",NICKELODEON TOONS
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\pptv.jpg" group-title="Infantil",NICKELODEON TEEN
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickjr.jpg" group-title="Infantil",NICK JR.
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+http://dejatedemamadas.neospaxy.top:8080/1671727462379182/0cf252d9ddf8/52561
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickjr.jpg" group-title="Infantil",NICK JR. CLUB
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickjr.jpg" group-title="Infantil",PADRINOS MAGICOS
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+
+#EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\nickjr.jpg" group-title="Infantil",POPEYE
+#EXTGRP:Infantil
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-677d93afe650a700081e5f18.m3u8
 
 #EXTINF:0 tvg-logo="H:\Listas M3U\LOGOS\tc.jpg" group-title="Infantil",TOONCAST
 #EXTGRP:Infantil
@@ -635,6 +672,11 @@ https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenature
 #EXTVLCOPT:network-caching=1000
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cedcbdd6f57c543a0cb8a8&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=lovetheplanet_lovetv&content_channel_name=Love%20the%20Planet&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7978
 
+#EXTINF:0 group-title="DOCUMENTALES",NATURE TIME
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+
 #EXTINF:0 group-title="DOCUMENTALES",NATGEO
 #EXTGRP:DOCUMENTALES
 #EXTVLCOPT:network-caching=1000
@@ -684,6 +726,11 @@ https://lbgo.bozztv.com/ssh101/ssh101/wowdocumentary/playlist.m3u8
 #EXTGRP:PELICULAS
 #EXTVLCOPT:network-caching=1000
 http://38.137.192.250:8000/play/a03l
+
+#EXTINF:0 group-title="PELICULAS",CINECANAL
+#EXTGRP:PELICULAS
+#EXTVLCOPT:network-caching=1000
+http://190.61.47.54:8000/play/a02z/index.m3u8
 
 #EXTINF:0 group-title="PELICULAS",CINEMAX
 #EXTGRP:PELICULAS
